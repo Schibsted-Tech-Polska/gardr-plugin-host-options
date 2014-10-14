@@ -1,0 +1,21 @@
+{
+  "name": "gardr-plugin-host-options",
+  "version": "0.1.0",
+  "author": "Krystian Jarmicki <krystian.jarmicki@schibsted.pl>",
+  "license": "MIT",
+  "description": "Gardr plugin for passing initialization options into iframe",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "gardr-core-plugin": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.19.0"
+  },
+  "keywords": [
+    "gardr",
+    "gardr-plugin"
+  ]
+}
